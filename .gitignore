@@ -1,0 +1,18 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Logistic Regression from Scratch/*
+!/Logistic Regression from Scratch/task/
+/Logistic Regression from Scratch/task/*
+!/Logistic Regression from Scratch/task/logistic.py
+!/Logistic Regression from Scratch/task/example1_stage1.txt
+!/Logistic Regression from Scratch/task/graph.jpg
